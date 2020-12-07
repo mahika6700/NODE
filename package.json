@@ -1,0 +1,28 @@
+{
+  "name": "node_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "directory.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "chart.js": "^2.9.4",
+    "react-minimal-pie-chart": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahika6700/NODE.git"
+  },
+  "author": "mahika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahika6700/NODE/issues"
+  },
+  "homepage": "https://github.com/mahika6700/NODE#readme"
+}
